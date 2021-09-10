@@ -11,4 +11,4 @@ $(TARGET): $(SOURCE_C) $(SOURCE_H)
 	$(CC) $(SOURCE_C) -o $(TARGET)
 
 run: $(TARGET)
-      ./$(TARFET)
+	./$(TARFET)
