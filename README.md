@@ -1,6 +1,6 @@
 # MyFirstGithubRepository
 
-This MyFirstGithubRepository.
+This is MyFirstGithubRepository.
 
 ## Installation
 
